@@ -171,7 +171,4 @@ var Calculator = React.createClass({
     }
 });
 
-React.render(
-    <Calculator />,
-    document.getElementById('calculator')
-);
+
