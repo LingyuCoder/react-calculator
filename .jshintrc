@@ -1,0 +1,25 @@
+{
+    "camelcase": true,
+    "curly": false,
+    "eqeqeq": true,
+    "freeze": true,
+    "indent": 2,
+    "latedef": "nofunc",
+    "nonew": true,
+    "noarg": true,
+    "eqnull": true,
+    "trailing": true,
+    "undef": true,
+    "unused": true,
+    "browser": true,
+    "node": true,
+    "esnext": true,
+    "globals": {
+        "describe": false,
+        "expect": false,
+        "beforeEach": false,
+        "afterEach": false,
+        "modulex": false,
+        "it": false
+    }
+}
